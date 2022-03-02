@@ -2,7 +2,7 @@
 """
 Created on Thu Jan 27 22:55:13 2022
 
-@author: evanevy
+@author: evane
 """
 
 path = open("day3.txt", "r")
